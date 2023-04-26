@@ -5,15 +5,18 @@
 ## Welcome to my GitHub Profile &nbsp;&nbsp;<img src="https://github.com/margaretrl/margaretrl/blob/main/extras/wave-hi.gif" alt="cute hi" />
 <br>
 
+<p align="center">
 <a href="https://discordapp.com/users/748181405305012265">
-  <img align="center" alt="Margaret's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img alt="Margaret's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/margaret-rivas-2a1aa1188/">
-  <img align="center" alt="Margaret's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Margaret's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:margaretrivaslutz@hotmail.com">
-  <img align="center" alt="Margaret's Email" width="22px" src="https://img.icons8.com/color/32/000000/gmail.png"/>
+  <img alt="Margaret's Email" width="22px" src="https://img.icons8.com/color/32/000000/gmail.png"/>
 </a>
+</p>
+  
 
 <br>
 <table align="right">
