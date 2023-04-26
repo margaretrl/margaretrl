@@ -1,37 +1,35 @@
-
-<br/>
 <div align="center">
 <img src="https://github.com/margaretrl/margaretrl/blob/main/extras/name.gif" alt="MR Typer" />
 </div>
-<br/>
 
-## Welcome to my GitHub Profile
+## Welcome to my GitHub Profile &nbsp;&nbsp;<img src="https://github.com/margaretrl/margaretrl/blob/main/extras/wave-hi.gif" alt="cute hi" />
 <br>
 
 <a href="https://discordapp.com/users/748181405305012265">
-  <img align="lecenterft" alt="Margaret's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
+  <img align="center" alt="Margaret's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/margaret-rivas-2a1aa1188/">
   <img align="center" alt="Margaret's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:margaretrivaslutz@hotmail.com">
   <img align="center" alt="Margaret's Email" width="22px" src="https://img.icons8.com/color/32/000000/gmail.png"/>
 </a>
+
 <br>
 <table align="right">
  <tr><td><a href="README.md"><img src="extras/usa.png" height="13"> English</a></td></tr>
  <tr><td><a href="README_fr.md"><img src="extras/venezuela.png" height="13"> Spanish</a></td></tr>
 </table>
 <br><br>
-<div align="center" width="200">Hi, I'm Margaret Rivas, a passionate cs and comp bio student @ FSU! I am currently working as a technology intern at Janssen and a CS T.A. at FSU. </div><br><br>
+<div align="left" width="200">Hi, I'm Margaret Rivas, a passionate cs and comp bio student @ FSU! I am currently working as a technology intern at Janssen and a CS T.A. at FSU. </div><br>
 
-💡 **Interested in:**  `Data Analytics 📊` `Full-stack development 👨‍💻` `Automation 🚀` `System Design 💡` `Open Science  🧬` 
+💡 **Interested in:**  `Data Analytics 📊` `Full-stack dev 👨‍💻` `Automation 🚀` `System Design ⚙️` `Open Science  🧬` 
 
 📫 **Reach me:** [margaretrivaslutz@hotmail.com](mailto:margaretrivaslutz@hotmail.com) | [mer20c@fsu.edu](mailto:mer20c@fsu.edu)
 
 ## My Skills 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B)&nbsp;
 ![R](https://img.shields.io/badge/-R%20Language-276DC3?logo=r)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
@@ -43,7 +41,7 @@
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
-![ITERM](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)&nbsp;
+![ITERM](https://img.shields.io/badge/-iTerm2-000000?logo=iTerm2&logoColor=white)&nbsp;
 
 <!-- 
 How to make badges: https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b
@@ -53,5 +51,10 @@ How to make badges: https://javascript.plainenglish.io/how-to-make-custom-langua
 ## My Coding Stats 📈
 
 <div align="center">   
-    <img src="https://github-readme-stats.vercel.app/api?username=margaretrl&show_icons=true&count_private=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=margaretrl&show_icons=true&count_private=true&hide_border=true&theme=transparent&hide=contribs" />
 </div>
+<!-- 
+<div align="center">
+    <imr src="https://github-readme-stats.vercel.app/api/top-langs/?username=margaretrl&size_weight=0.5&count_weight=0.5"
+</div>
+-->
