@@ -32,7 +32,7 @@
 ## My Skills 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B)&nbsp;
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)&nbsp;
 ![R](https://img.shields.io/badge/-R%20Language-276DC3?logo=r)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
