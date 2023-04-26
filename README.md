@@ -8,10 +8,10 @@
 <p align="center">
 <a href="https://discordapp.com/users/748181405305012265">
   <img alt="Margaret's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/margaret-rivas-2a1aa1188/">
   <img alt="Margaret's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:margaretrivaslutz@hotmail.com">
   <img alt="Margaret's Email" width="22px" src="https://img.icons8.com/color/32/000000/gmail.png"/>
 </a>
@@ -48,6 +48,7 @@
 
 <!-- 
 How to make badges: https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b
+Amazing tool to edit gifs: https://ezgif.com/
 -->
 
 
