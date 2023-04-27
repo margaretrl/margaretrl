@@ -19,8 +19,8 @@
   
 
 <table align="right">
- <tr><td><a href="README.md"><img src="extras/usa.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="extras/venezuela.png" height="13"> Spanish</a></td></tr>
+ <tr><td><img src="extras/usa.png" height="13"> English</a></td></tr>
+ <tr><td><img src="extras/venezuela.png" height="13"> Spanish</a></td></tr>
 </table>
 
 <div align="left" width="200">Hi, I'm Margaret Rivas, a passionate cs and comp bio student @ FSU! I am currently working as a technology intern at Janssen (J&J) and a CS T.A. at FSU. </div><br>
