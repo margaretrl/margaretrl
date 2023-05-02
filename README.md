@@ -29,6 +29,8 @@
 
 📫 **Reach me:** [margaretrivaslutz@hotmail.com](mailto:margaretrivaslutz@hotmail.com) | [mer20c@fsu.edu](mailto:mer20c@fsu.edu)
 
+🌐 **Personal Website*** [margaretrl.github.io/home/](margaretrl.github.io/home/)
+
 ## My Skills 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)&nbsp;
