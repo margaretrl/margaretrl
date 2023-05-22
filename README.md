@@ -49,6 +49,7 @@ intern at Janssen (J&J) and a CS T.A. at FSU. </div><br>
 ![ITERM](https://img.shields.io/badge/-iTerm2-000000?logo=iTerm2&logoColor=white)&nbsp;
 
 <!-- 
+Cool resources:
 How to make badges: https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b
 Amazing tool to edit gifs: https://ezgif.com/
 -->
