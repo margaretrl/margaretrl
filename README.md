@@ -26,7 +26,7 @@
 <div align="left" width="200">Hi, I'm Margaret Rivas, a passionate third year cs and comp bio student @ FSU! I am currently working as a technology 
 intern at Janssen (J&J) and a CS T.A. at FSU. </div><br>
 
-💡 **Interested in:**  `Data Analytics 📊` `Full-stack dev 👨‍💻` `Automation 🚀` `System Design ⚙️` `Open Science  🧬` 
+💡 **Interested in:**  `Data Analytics 📊` `Full-stack dev 👨‍💻` `Automation 🚀` `System Design ⚙️` `Open Science 🧬` 
 
 📫 **Reach me:** [margaretrivaslutz@hotmail.com](mailto:margaretrivaslutz@hotmail.com) | [mer20c@fsu.edu](mailto:mer20c@fsu.edu)
 
