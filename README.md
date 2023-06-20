@@ -23,7 +23,7 @@
  <tr><td><img src="extras/venezuela.png" height="13"> Spanish</a></td></tr>
 </table>
 
-<div align="left" width="200">Hi, I'm Margaret Rivas, a passionate third year cs and comp bio student @ FSU! I am currently working as a tehcnology<br>
+<div align="left" width="200">Hi, I'm Margaret Rivas, a passionate third year cs and comp bio student @ FSU! I am currently working as a tehcnology 
 intern at Janssen (J&J) and a CS T.A. at FSU. </div><br>
 
 💡 **Interested in:**  `Data Analytics 📊` `Full-stack dev 👨‍💻` `Automation 🚀` `System Design ⚙️` `Open Science  🧬` 
