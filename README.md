@@ -7,13 +7,13 @@
 
 <p align="center">
 <a href="https://discordapp.com/users/748181405305012265">
-  <img alt="Margaret's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img alt="Margaret's Discord" width="35px" src="https://cdn.simpleicons.org/discord"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/margaretrl/">
-  <img alt="Margaret's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Margaret's LinkedIn" width="35px" src="https://cdn.simpleicons.org/linkedin" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:margaretrivaslutz@hotmail.com">
-  <img alt="Margaret's Email" width="22px" src="https://img.icons8.com/color/32/000000/gmail.png"/>
+  <img alt="Margaret's Email" width="35px" src="https://img.icons8.com/color/32/000000/gmail.png"/>
 </a>
 </p>
   
