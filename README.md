@@ -65,3 +65,9 @@ Amazing tool to edit gifs: https://ezgif.com/
     <imr src="https://github-readme-stats.vercel.app/api/top-langs/?username=margaretrl&size_weight=0.5&count_weight=0.5"
 </div>
 -->
+
+## 
+<div align="center">
+<p>Sign my guestbook? :D</p>
+<a href="https://github.com/margaretrl/margaretrl/issues"><img src="https://github.com/margaretrl/margaretrl/blob/main/extras/guestbook.gif" alt="Guest book" align="center"></a>
+</div>
