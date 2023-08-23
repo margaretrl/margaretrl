@@ -38,7 +38,9 @@ intern at Janssen (J&J) and a CS T.A. at FSU. </div><br>
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)&nbsp;
 ![R](https://img.shields.io/badge/-R%20Language-276DC3?logo=r)&nbsp;
 ![MySQL](https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&logoColor=white)&nbsp;
-![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;
+![Neo4J](https://img.shields.io/badge/Neo4J-008CC1?logo=neo4j&logoColor=white)&nbsp;
+![JS](https://img.shields.io/badge/JavaScript-blue?logo=javascript)&nbsp;
+![LINUX](https://img.shields.io/badge/Linux-yellow?logo=linux&logoColor=black)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
