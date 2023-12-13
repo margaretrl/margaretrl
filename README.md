@@ -61,11 +61,13 @@ Amazing tool to edit gifs: https://ezgif.com/
 
 <div align="center">   
     <img src="https://github-readme-stats.vercel.app/api?username=margaretrl&show_icons=true&count_private=true&hide_border=true&theme=transparent&hide=contribs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=margaretrl&hide_border=true&theme=transparent&langs_count=8" href="https://github.com/anuraghazra/github-readme-stats" height="195">
 </div>
 <!-- 
 <div align="center">
     <imr src="https://github-readme-stats.vercel.app/api/top-langs/?username=margaretrl&size_weight=0.5&count_weight=0.5"
 </div>
+___
 -->
 
 ## 
