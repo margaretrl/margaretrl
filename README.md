@@ -28,7 +28,7 @@ intern at Janssen (J&J) and a CS T.A. at FSU. </div><br>
 
 💡 **Interested in:**  `Data Analytics 📊` `Full-stack dev 👨‍💻` `Automation 🚀` `System Design ⚙️` `Open Science 🧬` 
 
-📫 **Reach me:** [margaretrivaslutz@hotmail.com](mailto:margaretrivaslutz@hotmail.com) | [mer20c@fsu.edu](mailto:mer20c@fsu.edu)
+📫 **Reach me:** [margaretrivaslutz@hotmail.com](mailto:margaretrivaslutz@hotmail.com)
 
 🌐 **Personal Website:** [margaretrl.github.io/home/](https://margaretrl.github.io/home/)
 
