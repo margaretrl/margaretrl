@@ -30,7 +30,7 @@ intern at Janssen (J&J) and a CS T.A. at FSU. </div><br>
 
 📫 **Reach me:** [margaretrivaslutz@hotmail.com](mailto:margaretrivaslutz@hotmail.com) | [mer20c@fsu.edu](mailto:mer20c@fsu.edu)
 
-🌐 **Personal Website:** [margaretrl.github.io/home/](margaretrl.github.io/home/)
+🌐 **Personal Website:** [margaretrl.github.io/home/](https://margaretrl.github.io/home/)
 
 ## My Skills 
 
