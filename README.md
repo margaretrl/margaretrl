@@ -1,6 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=3250&pause=1000&color=8fc5e4&center=true&multiline=true&width=699&height=68&lines=Hey+there%2C+I'm+Margaret!" alt="Typing SVG" /></a>
-<!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=3250&pause=1000&color=3AE4F7&center=true&multiline=true&width=699&height=68&lines=Hey+there%2C+I'm+Margaret!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=3250&pause=1000&color=3AE4F7&center=true&multiline=true&width=699&height=68&lines=Hey+there%2C+I'm+Margaret!" alt="Typing SVG" /></a>
   <!--https://readme-typing-svg.demolab.com/demo/?font=Press+Start+2P&size=28&duration=3250&color=3AE4F7&center=true&multiline=true&width=699&height=68&lines=Hey+there%2C+I%27m+Margaret!-->
 <!--<img src="https://github.com/margaretrl/margaretrl/blob/main/extras/name.gif" alt="MR Typer" />
   -->
