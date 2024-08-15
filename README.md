@@ -1,5 +1,8 @@
 <div align="center">
-<img src="https://github.com/margaretrl/margaretrl/blob/main/extras/name.gif" alt="MR Typer" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=3250&pause=1000&color=3AE4F7&center=true&multiline=true&width=699&height=68&lines=Hey+there%2C+I'm+Margaret!" alt="Typing SVG" /></a>
+  <!--https://readme-typing-svg.demolab.com/demo/?font=Press+Start+2P&size=28&duration=3250&color=3AE4F7&center=true&multiline=true&width=699&height=68&lines=Hey+there%2C+I%27m+Margaret!-->
+<!--<img src="https://github.com/margaretrl/margaretrl/blob/main/extras/name.gif" alt="MR Typer" />
+  -->
 </div>
 
 ## Welcome to my GitHub Profile &nbsp;&nbsp;<img src="https://github.com/margaretrl/margaretrl/blob/main/extras/wave-hi.gif" alt="cute hi" />
@@ -23,8 +26,8 @@
  <tr><td><img src="extras/venezuela.png" height="13"> Spanish</a></td></tr>
 </table>
 
-<div align="left" width="200">Hi, I'm Margaret Rivas, a passionate third year cs and comp bio student @ FSU! I am currently working as a technology 
-intern at Janssen (J&J) and a CS T.A. at FSU. </div><br>
+<div align="left" width="200">Hi, I'm Margaret Rivas, an FSU graduate with a degree in Computer Science and Computational Biology! I am currently working as a software 
+analyst @ JM Family and a Web Developer/ Automation Analyst @ FL DOH. </div><br>
 
 💡 **Interested in:**  `Data Analytics 📊` `Full-stack dev 👨‍💻` `Automation 🚀` `System Design ⚙️` `Open Science 🧬` 
 
