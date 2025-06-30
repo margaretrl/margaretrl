@@ -5,15 +5,14 @@
   -->
 </div>
 
-## Welcome to my GitHub Profile &nbsp;&nbsp;<img src="https://github.com/margaretrl/margaretrl/blob/main/extras/wave-hi.gif" alt="cute hi" />
-<br>
+## Welcome to my GitHub Profile &nbsp;&nbsp;<img src="https://github.com/margaretrl/margaretrl/blob/main/extras/wave-hi.gif" alt=" hi" />
 
 <p align="center">
 <a href="https://discordapp.com/users/748181405305012265">
   <img alt="Margaret's Discord" width="35px" src="https://cdn.simpleicons.org/discord"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/margaretrl/">
-  <img alt="Margaret's LinkedIn" width="35px" src="https://cdn.simpleicons.org/linkedin" />
+  <img alt="Margaret's LinkedIn" width="35px" src="https://skillicons.dev/icons?i=linkedin"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:margaretrivaslutz@hotmail.com">
   <img alt="Margaret's Email" width="35px" src="https://img.icons8.com/color/32/000000/gmail.png"/>
@@ -37,6 +36,54 @@ Engineer @ JM Family and a Web Developer/ Automation Analyst @ FL DOH. </div><br
 
 ## My Skills 
 
+#### 🖥️ Programming Languages:
+<p>
+    <img src="https://skillicons.dev/icons?i=python" title="Python" />
+    <img src="https://skillicons.dev/icons?i=cs" title="C#" />
+    <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
+    <img src="https://skillicons.dev/icons?i=c" title="C" />
+    <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=r" title="R" />
+</p>
+
+#### 🌐 Web Development:
+<p>
+    <img src="https://skillicons.dev/icons?i=html" title="HTML" />
+    <img src="https://skillicons.dev/icons?i=css" title="CSS" />
+    <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+    <img src="https://skillicons.dev/icons?i=react" title="React" />
+    <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
+</p>
+
+#### 🗄️ Databases & APIs:
+<p>
+    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+    <img src="https://skillicons.dev/icons?i=graphql" title="GraphQL" />
+    <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" />
+    <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
+    <img src="https://www.pngkey.com/png/full/231-2317101_neo-icon-neo4j-logo.png" height="48" alt="Neo4j" title="Neo4j" />
+</p>
+
+#### ☁️ Cloud & DevOps:
+<p>
+    <img src="https://skillicons.dev/icons?i=aws" title="AWS" />
+    <img src="https://skillicons.dev/icons?i=azure" title="Azure" />
+    <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
+    <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
+    <img src="https://skillicons.dev/icons?i=git" title="Git" />
+    <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+    <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" />
+</p>
+
+ <!-- 
+<p align="center">
+  <a href="https://margaretrl.github.io/home/">
+    <img width="1440px" src="https://skillicons.dev/icons?i=python,cs,cpp,js,nodejs,react,html,css,r,mysql,graphql,aws,azure,git,github,githubactions,docker,linux&perline=18" />
+  </a>
+</p>
+
+
+<!--
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)&nbsp;
 ![R](https://img.shields.io/badge/-R%20Language-276DC3?logo=r)&nbsp;
