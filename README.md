@@ -36,7 +36,7 @@ Engineer @ JM Family and a Web Developer/ Automation Analyst @ FL DOH. </div><br
 
 ## My Skills 
 
-#### 🖥️ Programming Languages:
+####  Programming Languages:
 <p>
     <img src="https://skillicons.dev/icons?i=python" title="Python" />
     <img src="https://skillicons.dev/icons?i=cs" title="C#" />
@@ -46,7 +46,7 @@ Engineer @ JM Family and a Web Developer/ Automation Analyst @ FL DOH. </div><br
     <img src="https://skillicons.dev/icons?i=r" title="R" />
 </p>
 
-#### 🌐 Web Development:
+#### Web Development:
 <p>
     <img src="https://skillicons.dev/icons?i=html" title="HTML" />
     <img src="https://skillicons.dev/icons?i=css" title="CSS" />
@@ -55,7 +55,7 @@ Engineer @ JM Family and a Web Developer/ Automation Analyst @ FL DOH. </div><br
     <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
 </p>
 
-#### 🗄️ Databases & APIs:
+####  Databases & APIs:
 <p>
     <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
     <img src="https://skillicons.dev/icons?i=graphql" title="GraphQL" />
@@ -64,7 +64,7 @@ Engineer @ JM Family and a Web Developer/ Automation Analyst @ FL DOH. </div><br
     <img src="https://www.pngkey.com/png/full/231-2317101_neo-icon-neo4j-logo.png" height="48" alt="Neo4j" title="Neo4j" />
 </p>
 
-#### ☁️ Cloud & DevOps:
+####  Cloud & DevOps:
 <p>
     <img src="https://skillicons.dev/icons?i=aws" title="AWS" />
     <img src="https://skillicons.dev/icons?i=azure" title="Azure" />
