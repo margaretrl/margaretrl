@@ -26,7 +26,7 @@
 </table>
 
 <div align="left" width="200">Hi, I'm Margaret Rivas, an FSU graduate with a degree in Computer Science and Computational Biology! I am currently working as a Software 
-Engineer @ JM Family and a Web Developer/ Automation Analyst @ FL DOH. </div><br>
+Engineer II @ JM Family and a Web Developer/ Automation Analyst @ FL DOH. </div><br>
 
 💡 **Interested in:**  `Data Analytics 📊` `Full-stack dev 👨‍💻` `Automation 🚀` `System Design ⚙️` `Open Science 🧬` 
 
